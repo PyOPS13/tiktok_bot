@@ -1,2 +1,2 @@
-vk_phone = "+79104526990"
-vk_password = "19971975kr"
+vk_phone = "phone number"
+vk_password = "password"
